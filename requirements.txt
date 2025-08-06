@@ -1,0 +1,17 @@
+ipykernel
+ipython
+ipywidgets
+lightgbm
+matplotlib
+nltk
+numpy
+openpyxl
+pandas
+plotly
+scikit-learn
+scipy
+seaborn
+shapely
+spacy
+statsmodels
+xgboost
